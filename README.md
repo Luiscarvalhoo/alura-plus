@@ -1,7 +1,6 @@
 # 🎨 Alura Plus
 
-Projeto desenvolvido durante o curso **[HTML e CSS: Classes, posicionamento e Flexbox]([https://cursos.alura.com.br/course/html-css-classes-posicionamento-flexbox](https://cursos.alura.com.br/course/html-css-praticando-html-css)** da [Alura](https://www.alura.com.br/).
-
+Projeto desenvolvido durante o curso **[HTML e CSS: praticando HTML/CSS](https://cursos.alura.com.br/course/html-css-praticando-html-css)** da [Alura](https://www.alura.com.br/).
 
 ---
 
@@ -37,11 +36,12 @@ Este projeto foi criado com o objetivo de praticar conceitos de **HTML5** e **CS
 
 ## 📷 Preview do Projeto
 
-> *(Adicione um printscreen ou um gif da página aqui quando quiser)*
+> *(Adicione aqui uma captura de tela ou um gif mostrando a página)*
 
-```html
+```bash
 📂 Estrutura de pastas:
 ├── index.html
 ├── style.css
 └── imagens/
+
 
