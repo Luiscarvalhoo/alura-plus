@@ -1,50 +1,46 @@
-🎨 Alura Plus
-Projeto desenvolvido durante o curso "HTML e CSS: Classes, posicionamento e Flexbox" da plataforma Alura.
+# 🎨 Alura Plus
 
-📋 Descrição
-O Alura Plus é uma página web responsiva que simula uma plataforma de streaming. O projeto foi criado com o objetivo de praticar conceitos de HTML5 e CSS3, com foco em:
+Projeto desenvolvido durante o curso **[HTML e CSS: Classes, posicionamento e Flexbox](https://cursos.alura.com.br/course/html-css-classes-posicionamento-flexbox)** da [Alura](https://www.alura.com.br/).
 
-Estruturação semântica de páginas web
+---
 
-Uso de Flexbox
+## 📋 Descrição
 
-Organização de classes CSS
+O **Alura Plus** é uma página web responsiva que simula uma plataforma de streaming.
 
-Aplicação de responsividade
+Este projeto foi criado com o objetivo de praticar conceitos de **HTML5** e **CSS3**, com foco em:
 
-🚀 Tecnologias utilizadas
-HTML5
+- Estruturação semântica
+- Layout com **Flexbox**
+- Organização de classes no CSS
+- Responsividade para diferentes tamanhos de tela
 
-CSS3
+---
 
-🖥️ Funcionalidades e recursos aprendidos
-✅ Estruturação de páginas com HTML
-✅ Estilização com CSS
-✅ Uso de Flexbox para layout responsivo
-✅ Adição de imagens e ícones
-✅ Criação de seções como cabeçalho, banner, vantagens, dispositivos compatíveis, rodapé
-✅ Responsividade para diferentes tamanhos de tela
+## 🚀 Tecnologias utilizadas
 
-📷 Preview do Projeto
+- HTML5
+- CSS3
 
-(Se quiser, você pode adicionar uma captura de tela do seu projeto aqui.)
+---
 
-🏁 Como visualizar o projeto
-Você pode abrir o arquivo index.html diretamente no navegador ou utilizar uma extensão como Live Server no VS Code.
+## 🖥️ Funcionalidades
 
-📚 Conteúdos abordados no curso
-Estrutura básica de um projeto web
+✅ Estruturação de seções com HTML  
+✅ Estilização de layout e cores com CSS  
+✅ Uso de Flexbox para alinhamento dos elementos  
+✅ Design responsivo com media queries  
+✅ Seções como **cabeçalho**, **banner**, **vantagens**, **dispositivos compatíveis** e **rodapé**
 
-Uso correto de tags semânticas
+---
 
-Aplicação de classes CSS para reaproveitamento de estilos
+## 📷 Preview do Projeto
 
-Flexbox para alinhamento e espaçamento
+> *(Adicione um printscreen ou um gif da página aqui quando quiser)*
 
-Boas práticas de organização de código CSS
-
-Media queries para responsividade
-
-👨‍💻 Autor
-Projeto desenvolvido por Luis Carvalho, acompanhando as aulas da Alura.
+```html
+📂 Estrutura de pastas:
+├── index.html
+├── style.css
+└── imagens/
 
