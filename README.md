@@ -1,6 +1,6 @@
 # 🎨 Alura Plus
 
-Projeto desenvolvido durante o curso **[HTML e CSS: Classes, posicionamento e Flexbox](https://cursos.alura.com.br/course/html-css-classes-posicionamento-flexbox)** da [Alura](https://www.alura.com.br/).
+Projeto desenvolvido durante o curso **[HTML e CSS: Classes, posicionamento e Flexbox]([https://cursos.alura.com.br/course/html-css-classes-posicionamento-flexbox](https://cursos.alura.com.br/course/html-css-praticando-html-css))** da [Alura](https://www.alura.com.br/).
 
 ---
 
