@@ -36,12 +36,16 @@ Este projeto foi criado com o objetivo de praticar conceitos de **HTML5** e **CS
 
 ## 📷 Preview do Projeto
 
-> *(Adicione aqui uma captura de tela ou um gif mostrando a página)*
+![Preview do Alura Plus](./imagens/Captura-de-tela-2025-06-22-100952.png)
+
+> *(A imagem acima é uma captura de tela do projeto rodando localmente)*
+
+---
+
+## 📂 Estrutura de pastas
 
 ```bash
-📂 Estrutura de pastas:
+📂 Projeto Alura Plus
 ├── index.html
 ├── style.css
 └── imagens/
-
-
